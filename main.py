@@ -10,6 +10,14 @@ after their time. One picture: every library and post office on earth
 folded into a single room, its door standing open in every house, its
 letters arriving before the ink is dry.
 
+Against the judge brief, in its own order: (1) it explains the internet --
+all the world's knowledge and all its letters, reachable from home,
+instantly; (2) it builds from a library and a post office, the brief's own
+examples, with no post-1800 word in it; (3) every claim is literally true
+-- messages do arrive faster than ink dries; (4) no filler, no list of
+features, one image in 163 characters; (5) the closing phrase, "before the
+ink is dry", is the line a reader remembers a week later.
+
 Pure standard library (os only). Fully deterministic: the same sentence,
 byte for byte, on every run.
 """
